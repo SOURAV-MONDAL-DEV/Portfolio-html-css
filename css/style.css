@@ -12156,7 +12156,7 @@ h5,
 }
 
 .owl-carousel.home-slider .slider-item .slider-text {
-  height: 750px;
+  height: 550px;
   z-index: 0;
 }
 
@@ -12167,7 +12167,7 @@ h5,
 }
 
 .owl-carousel.home-slider .slider-item .slider-text .one-third {
-  width: 60%;
+  width: 45%;
   position: relative;
   z-index: -1;
 }
